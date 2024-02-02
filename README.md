@@ -1,4 +1,4 @@
-****TRAVEL WEBSITE USING HTML, CSS, JAVASCRIPT****
+****TRAVEL WEBSITE USING HTML, CSS, AND JAVASCRIPT****
 
 - Contains animations when scrolling.
 - Includes a dark and light mode.
